@@ -1,0 +1,19 @@
+{
+  "api_id": 12345678,
+  "api_hash": "your_actual_api_hash_here",
+  "database_url": "mongodb+srv://user:pass@cluster.mongodb.net/",
+  "log_channel": -100123456789,
+  "admins": [123456789],
+  "bots": [
+    {
+      "token": "your_actual_bot_token_1_here",
+      "db_name": "publink_data_1",
+      "version": "v1"
+    },
+    {
+      "token": "your_actual_bot_token_2_here",
+      "db_name": "publink_data_2",
+      "version": "v2"
+    }
+  ]
+}
